@@ -197,9 +197,11 @@ body {
 /*footer styling */
 
 .footer {
-     .a href
+     .a href {}
+        
+     .horiseon-landing-page {
         color: aliceblue;
-     
+     }
     
     padding: 20px;
         color: #07d4db;
