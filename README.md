@@ -8,6 +8,8 @@ The motivation for this project was to create a foundation portfolio to which I 
 ![image] ("C:\Users\blair\bootcamp\projects\M2-Portfolio\assets\images\webpage-screenshots\portfolio-screenshot-top.jpg") 
 ![image] ("C:\Users\blair\bootcamp\projects\M2-Portfolio\assets\images\webpage-screenshots\portfolio-screenshot- bottom.jpg")
 
+![Alt text](image-1.png)
+
 To use this website, there are 3 links in the upper corners. Each link brings you to the named link section on the page. Simply click on the link to jump to that part of the website.
 
 
